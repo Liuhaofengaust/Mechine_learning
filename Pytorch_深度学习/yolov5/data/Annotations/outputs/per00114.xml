@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>images</folder>
+<filename>per00114.jpg</filename>
+<path>/home/wukong/yolov5/data/person/images/per00114.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>64</width>
+    <height>128</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>9</xmin>
+        <ymin>10</ymin>
+        <xmax>55</xmax>
+        <ymax>115</ymax>
+    </bndbox>
+</object>
+</annotation>
