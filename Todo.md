@@ -7,5 +7,4 @@
         
     def forward(self, x):
         return self.func(x)
-* image_datasets = {x:datasets.ImageFolder(os.path.join(data_dir, x), data_transforms[x])
-                      for x in ["train", "val"]}
+
